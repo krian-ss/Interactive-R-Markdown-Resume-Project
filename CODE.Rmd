@@ -1,0 +1,130 @@
+---
+title: "RESUME"
+author: KIRAN S S
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+knit: pagedown::chrome_print
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+
+# Aside
+
+![KIRAN S S](ME.jpg)
+
+## CONTACT {#contact}
+
+-   <i class="fa fa-envelope"></i>
+    [kiranss2709\@gmail.com](mailto:kiranss2709@gmail.com){.email}
+-   <i class="fa fa-linkedin"></i>
+    <https://www.linkedin.com/in/kiran-s-s-9917252b8>
+-   <i class="fa fa-phone"></i> +91 8050775481
+-   For more information, please contact me via email.
+
+## SKILLS {#skills}
+
+-   Python Programming
+
+-   R Programming
+
+-   Web Development
+
+-   Team-work
+
+-   Team Management
+
+## Disclaimer {#disclaimer}
+
+This resume was made with the R packages.
+
+# Main
+
+## KIRAN S S {#title}
+
+### Currently Searching for a Job
+
+Highly motivated BCA final year student seeking an entry-level Software
+Development position to leverage my strong foundation in computer
+applications and problem-solving skills. Eager to learn, contribute, and
+thrive in a dynamic team environment.
+
+## EDUCATION {data-icon="graduation-cap" data-concise="true"}
+
+### P.E.S. Institute of Advanced Management Studies
+
+Bachelor of Computer Applications
+
+Shivamogga, Karnataka
+
+2021\
+\|\
+2024
+
+### Akshara Composite PU College
+
+Computer Science ( PCMC )
+
+Shivamogga, Karnataka
+
+2019\
+\|\
+2021
+
+## PROJECTS {data-icon="laptop"}
+
+### 1. Tracking location using Phone number
+
+*Python Programming*
+
+Shivamogga
+
+Jul 2023\
+\|\
+Aug 2023
+
+-   Developed a Python script that utilizes libraries like phonenumbers
+    and OpenCageGeocode to extract location information from phone
+    numbers.
+-   The script parses phone numbers, retrieves their corresponding
+    location data (city, country), and identifies the service provider.\
+-   Additionally, the script generates a basic map visualization using
+    Folium, pinpointing the location based on the extracted data.
+
+### 2. Interactive Data Report with R Markdown
+
+*R Programming*
+
+Shivamogga
+
+Jan 2024\
+\|\
+Jan 2024
+
+-   Developed an interactive report using R Markdown to automate data
+    analysis and visualization.\
+-   Utilized Knit to seamlessly combine text, code, and visualizations.\
+-   Leveraged pandoc's versatility to produce the report in multiple
+    output formats (PDF, HTML, and Word) for adaptability to different
+    audiences.
+
+## CERTIFICATES {data-icon="chalkboard-teacher"}
+
+### 
+
+-   Python - *GUVI ( Google )*.
+-   Employability Skills under "LifeSkills" - *Rubicon*.
+
+Shivamogga
+
+## DECLARATION {data-icon="person"}
+
+### 
+
+I hereby declare that all the information mentioned above is true to my
+knowledge and I bear the responsibility for the above-mentioned
+particulars.
