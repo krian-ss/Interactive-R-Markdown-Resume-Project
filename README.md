@@ -28,3 +28,5 @@ This project demonstrates the creation of an interactive resume using R Markdown
 - Utilize Git version control for project management and collaboration.
 
 **Feel free to explore and customize this template to create your own interactive R Markdown resume!**
+
+CHEAT SHEET: https://rstudio.github.io/cheatsheets/html/rmarkdown.html
